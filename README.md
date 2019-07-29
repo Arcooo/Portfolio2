@@ -1,1 +1,12 @@
-"# PythonProgramming" 
+hello and welcome and thanks for coming to my github page. 
+
+to start a little about myself and what you have just browsed to:
+1. I don't know why I just listed this, I guess because I like lists haha. I am a recent MBA graduate who wants to get back / more into software and "computer science" as the students in schools refer to it. I minored in computer science and thought it was actually hard, a challenge. And i found out that I did not like it in school but I still wanted to learn the concepts. I brutally struggled through Java and OOP. Then in my MBA program, I took a Python Programming class, and I was so much better at programming than everyone else because of my previous struggles and attempts at programming from my super hard classes such as Algorithms. I did that class in two weekends. I just did all the assignments and learned Python. I was also learning Cordova for my "cool startup voice-app application idea"
+
+2. But let's get back to lists. I wanted to say that someone, I think it was Siraj Raval who's a data scientist on YouTube, He said "now has never been a better time to become a data scientist, a data scientist vlogger, a data analyst and start building mediums to teach people what you've learned." Pretty much that guys said that in oh so many words so the second, about what you have browsed to is going to be a blog of my experiences programming in Python (currently happening now! 7/28/19)
+
+3. What you have browsed to is my Trial and Errors and way of showing my abilities to code. I would hopefully like to work in programming and software and create awesome things, and coordinate online in an efficient way because we're tech savvy. That's the dream! Because I do believe that if you keep up at something consistantly, talk about it, get other people involved, that that's you're calling and you will succeed.
+
+4. So you will see in the folders, Coding Interview Practice Folder I have a folder for my interview practice questions. I'm working toward getting a job in programming which means acing the interview. I'm actually starting to enjoy doing these problems because they don't take that long and when they do, you can think about the problem during the day. My favorite thing to do with all these problems is throuw a HashTable at it. It kind of reminds me of playing chess. You're mentally tackling a problem attacking from many different directions. But some problems like unemployment, you have to attack face to face. 
+
+5. Again thanks for visiting my GitHub page, please feel free to ask me questions about my work on the beginning stages of becoming a programmer. specifically Python because Python is my #1 programming language. Python = #1 lol fight me
