@@ -1,3 +1,3 @@
-
-# ALEC JAMES'S DATA ANALYTICS PORTFOLIO :+1:
+:smiley: :computer: :heart: :exclamation:
+# ALEC JAMES'S DATA ANALYTICS PORTFOLIO 
 
