@@ -13,7 +13,7 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 
 ### Projects in the Portfolio
 - [ ] [Wayfair Data Science Competition]()
-- I need to ahve a descrition
+> I need to ahve a descrition
 
 
 
