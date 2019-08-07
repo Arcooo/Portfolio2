@@ -18,7 +18,8 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 
 
 
-
+### Other Links
+[LinkedIn Profile](https://www.linkedin.com/in/alecjames11)
 
 
 
