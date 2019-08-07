@@ -14,7 +14,12 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 ### Projects in the Portfolio
 [Wayfair Data Science Competition]()
 > 
-
+[NFL 2019 SQL Demonstration Project with Web Scraping]()
+>
+[Coding Interview Questions]()
+>
+[Useful Code Bits and Scripts]()
+>
 
 ### My Programming
 I am a huge fan of Python notebooks for coding. I think that Jupyter Notebooks are visually appealing and a smooth environemnt to program in. Don't be afraid to click on the .ipnyb files as, being a public portfolio, I will try to explain my code in markdown as best I can. Also, to make this portfolio more understandable, I will utilize README.md for the files in the folder structure. 
