@@ -11,4 +11,5 @@ My name is Alec James and I am a recent Clark University MBA graduate. I would l
 
 I also hope to demonstrate my ability to communicate through my notes, comments, and general organization.
 
-
+### Projects in the Portfolio
+(https://arcooo.github.io)
