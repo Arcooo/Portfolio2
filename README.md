@@ -21,7 +21,8 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 - [ ] [Useful Code Bits and Scripts]()
 >
 
-
+### Why I want to be a Data Analyst
+Data analytics is one of the most up and coming professions out there. And I can see why. Data analytics is important for the future in all industries. Some of the most challenging problems and opportunities are going to be solved with data. We have seen it for years in the financial industry in algorithmic computer traders which can be seen automating in million of retirement accounts. It's being utilized in genomics to figure out the complexities of our DNA. It's being used by retailers to target likely customers thus lowering marketing costs and becoming more efficient. The future is through data analytics and I want to be part of it. Plus I enjoy programming and finding meaningful insights. I believe that with my technical background, eye for strategy, and business acumen, I will be a great Data Analyst.
 
 ### My Programming
 I am a huge fan of Python notebooks for coding. I think that Jupyter Notebooks are visually appealing and a smooth environemnt to program in. Don't be afraid to click on the .ipnyb files as, being a public portfolio, I will try to explain my code in markdown as best I can. Also, to make this portfolio more understandable, I will utilize README.md for the files in the folder structure. 
