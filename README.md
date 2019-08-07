@@ -9,7 +9,7 @@ My name is Alec James and I am a recent Clark University MBA graduate. I would l
 - Excel aka the bread and butter of data analysis
 - Statistics
 
-I also hope to demonstrate my ability to communicate clearly through my notes, comments, and general organization.
+I hope to demonstrate my technical skills through my projects. I also wish to demonstrate my ability to communicate clearly through my notes, comments, and general organization.
 
 ### Projects in the Portfolio
 - [Wayfair Data Science Competition]()
