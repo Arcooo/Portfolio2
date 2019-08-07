@@ -18,7 +18,7 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 >
 - [x] [Coding Interview Questions]()
 >
-- [x] [Useful Code Bits and Scripts]()
+- [] [Useful Code Bits and Scripts]()
 >
 
 ### My Programming
@@ -27,7 +27,7 @@ I am a huge fan of Python notebooks for coding. I think that Jupyter Notebooks a
 I also use VS Code mainly to do live peer programming using the *Live Share* extensions which is very cool.
 
 ### Other Links
-[LinkedIn Profile](https://www.linkedin.com/in/alecjames11)
+- [LinkedIn Profile](https://www.linkedin.com/in/alecjames11)
 
 
 
