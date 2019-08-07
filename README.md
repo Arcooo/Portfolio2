@@ -20,7 +20,7 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 >
 - [ ] [Useful Code Bits and Scripts]()
 >
-*Links will bring you to projects*
+:arrow_up:*Links will bring you to projects*:arrow_up:
 
 
 ### My Programming
