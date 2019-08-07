@@ -17,9 +17,9 @@ I hope to demonstrate my technical skills through my projects. I also wish to de
 
 
 ### My Programming
-I am a huge fan of Python notebooks for coding. I think that Jupyter Notebooks are visually appealing and a smooth environemnt to program in. Don't be afraid to click on the .ipnyb files as, being a public portfolio, I will try to explain my code in markdown as best I can. Also, to make this portfolio more understandable, I will utilize README.md files for the folder structure. 
+I am a huge fan of Python notebooks for coding. I think that Jupyter Notebooks are visually appealing and a smooth environemnt to program in. Don't be afraid to click on the .ipnyb files as, being a public portfolio, I will try to explain my code in markdown as best I can. Also, to make this portfolio more understandable, I will utilize README.md for the files in the folder structure. 
 
-I also use VS Code mainly to do live peer programming using the *Live Share* extensions.
+I also use VS Code mainly to do live peer programming using the *Live Share* extensions which is very cool.
 
 ### Other Links
 [LinkedIn Profile](https://www.linkedin.com/in/alecjames11)
